@@ -1,5 +1,5 @@
 USD_NOTIFY_USER_ID = '@test_echo_bot'
-TG_TOKEN = '1177786376:AAFQn7uZX8zdcdKDtF1gmEcx'
+TG_TOKEN = '11777863:AAFQn7uZX8zdcdKDtF1gmEcx...'
 URL_USD = 'https://kurs.com.ua/'
 URL_EURO = 'https://kurs.com.ua/valyuta/eur'
 URL_BTC = 'https://coinmarketcap.com/currencies/bitcoin/'
