@@ -1,0 +1,21 @@
+# Requirements
+
+beautifulsoup
+bs4
+certifi
+cffi
+chardet
+cryptography
+decorator
+future
+idna
+pip
+pycparser
+python-telegram-bot
+requests
+setuptools
+six
+soupsieve
+telegram
+tornado
+urllib3
