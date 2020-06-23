@@ -1,4 +1,5 @@
 # Requirements
+
 beautifulsoup
 bs4
 certifi
